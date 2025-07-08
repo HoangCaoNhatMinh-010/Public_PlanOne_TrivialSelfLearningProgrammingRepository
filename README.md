@@ -1,4 +1,4 @@
-/* This is README.md of Public_PlanOne */
+/* This is README.md of Public_PlanOne_TrivialSelfLearningProgrammingRepository */
 
 /* This is used to describe about this 'place', 
 will contain any of my sample code snippet(s), 
