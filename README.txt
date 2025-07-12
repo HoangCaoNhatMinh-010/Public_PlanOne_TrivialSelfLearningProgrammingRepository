@@ -1,1 +1,1 @@
-/* This is README.txt file for Ruby branch on GitHub. */
+/* This is README.txt file for Swift branch on GitHub. */
